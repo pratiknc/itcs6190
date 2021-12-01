@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run multipage.py
+web: sh setup.sh && streamlit run app.py
